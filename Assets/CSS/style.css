@@ -1,5 +1,5 @@
 .reprobody {
-    background-image: url("../images/brick.jpg.jpg");
+    background-image: url("../images/brick.jpg");
     font-family: 'Oxanium';
 }
 
@@ -14,7 +14,7 @@
 }
 
 .container {
-    background-color: teal;
+    background-color: lightseagreen;
     font-family: 'Trade Winds';    
 }
 
@@ -24,4 +24,8 @@
 
 .nav-item {
     font-family: 'Oxanium';
+}
+
+.about {
+    font-family: 'Trade Winds';    
 }
