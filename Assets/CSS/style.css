@@ -12,3 +12,8 @@
     background-image: url("../images/glass.jpg");
     font-family: 'Oxanium';
 }
+
+.container {
+    background-color: teal;
+    font-family: 'Trade Winds';    
+}
