@@ -29,3 +29,103 @@
 .about {
     font-family: 'Trade Winds';    
 }
+
+<--- contact page --->
+
+.links-container {
+    margin-left: 70%;
+}
+
+.me {
+    font-family: 'Trade Winds';
+    font-size: 60px;
+}
+
+form {
+    margin: 20px;
+}
+
+form .field {
+    padding: 20px;
+    display:flex;
+    flex-direction: column;
+    font-size: 16px;
+}
+
+form .field input,textarea {
+    padding: 5px;
+}
+
+#submit {
+    margin-left: 20px;
+    padding: 10px;
+    background-color: teal;
+    border-radius: 8px;
+    text-decoration: none;
+    border: none;
+}
+
+#box {
+    background-color: whitesmoke;
+    padding-bottom: 20px;
+}
+
+<--- portfolio page --->
+
+#port {
+    padding: 0px;
+}
+
+#burger {
+    background-image: url(../images/burger.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 205px;
+    background-size: cover;
+    text-align: center;
+}
+
+#curry {
+    background-image: url(../images/letterbox_enco_curried-lamb-or-goat-recipe-image[1].jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 205px;
+    background-size: cover;
+    text-align: center;
+}
+
+#speg {
+    background-image: url(../images/letterbox_BeerSpaghetti[1].jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 205px;
+    background-size: cover;
+    text-align: center;
+}
+
+#chicken {
+    background-color: teal;
+    background-image: url(../images/letterbox_resizeimage593x426xireKk8lI8C[1].jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 205px;
+    background-size: cover;
+    text-align: center;    
+}
+
+#soup {
+    background-image: url(../images/letterbox_Vegetarian-pho-with-tofu-2-593[1].jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 205px;
+    background-size: cover;
+    text-align: center;
+}
+
+.row {
+    padding-top: 25px;
+}
+
+p {
+    background-color: teal;
+}
