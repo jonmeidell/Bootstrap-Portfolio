@@ -30,7 +30,7 @@
     font-family: 'Trade Winds';    
 }
 
-<--- contact page --->
+/* --- contact page --- */
 
 .links-container {
     margin-left: 70%;
@@ -70,14 +70,14 @@ form .field input,textarea {
     padding-bottom: 20px;
 }
 
-<--- portfolio page --->
+/* <--- portfolio page ---> */
 
 #port {
     padding: 0px;
 }
 
 #burger {
-    background-image: url(../images/burger.jpg);
+    background-image: url(../images/mainpage.jpg);
     background-repeat: no-repeat;
     background-position: center;
     min-height: 205px;
@@ -85,13 +85,25 @@ form .field input,textarea {
     text-align: center;
 }
 
+#castle {
+    background-color: whitesmoke;
+    padding: 5px;
+    font-family: 'Trade Winds';
+}
+
 #curry {
-    background-image: url(../images/letterbox_enco_curried-lamb-or-goat-recipe-image[1].jpg);
+    background-image: url(../images/tmnt.jpg);
     background-repeat: no-repeat;
     background-position: center;
     min-height: 205px;
     background-size: cover;
     text-align: center;
+}
+
+#turtle {
+    background-color: whitesmoke;
+    padding: 5px;
+    font-family: 'Trade Winds';
 }
 
 #speg {

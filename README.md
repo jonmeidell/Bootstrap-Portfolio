@@ -1,3 +1,2 @@
-# Bootstrap-Portfolio
-
-Resporduction of my basic-portfolio using bootstrap.
+# jonmeidell.github.io
+My livepage
